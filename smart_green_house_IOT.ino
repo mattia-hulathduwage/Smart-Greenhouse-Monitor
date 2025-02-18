@@ -4,11 +4,11 @@
 #include "addons/RTDBHelper.h"    // For RTDB helper functions
 #include <DHT.h>
 
-// Wi-Fi and Firebase Configuration "Niwa003" "Nivein123" "SLT-Fiber" "Slt@235953"  iPhone di Wasana  wasana77      
-#define WIFI_SSID "iPhone di Wasana"
-#define WIFI_PASSWORD "wasana77"
-#define API_KEY "AIzaSyD4wWSS9Wa68eZyWZF4-x8BgkMsLt-5upo"
-#define DATABASE_URL "https://greenhouse-71b7c-default-rtdb.asia-southeast1.firebasedatabase.app/"
+// Wi-Fi and Firebase Configuration       
+#define WIFI_SSID "your_wifi_ssid"
+#define WIFI_PASSWORD "wifi_password"
+#define API_KEY "api_key"
+#define DATABASE_URL "database_url"
 
 // Pins Configuration
 #define LDR_PIN 32              // Digital GPIO pin for LDR
